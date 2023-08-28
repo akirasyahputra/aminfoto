@@ -1,29 +1,23 @@
 ---
 enable: true
-title: "What Users Are Saying About Hugoplate"
-description: "Don't just take our word for it - hear from some of our satisfied users!  Check out some of our testimonials below to see what others are saying about Hugoplate."
+title: "Apa Kata Mereka Tentang Amin Photography?"
 
 # Testimonials
 testimonials:
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Achmad Akira Syahputra"
+    designation: "Ulasan Google Maps"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "Pegawai nya ramah-tamah sama pengunjung yang datang, studio nya keren dan hasil fotonya boleh diadu. Pastinya foto disini ada harga ada kualitas 👍"
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Irwan Syah"
+    designation: "Ulasan Google Maps"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "Kualitas Foto Mantap , karna sudah menggunakan Sony Alpha 1 , Studio nya juga oke , Sallam untuk Zauhari yg paling hitam 😁"
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Tina Sarbunan"
+    designation: "Ulasan Google Maps"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
-
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
-    avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "Ruang untuk fotonya besar...karyawannya cekatan juga...dan sabar..untuk hasil fotonya bagus..harga masih terjangkau👍"
 
 # don't create a separate page
 _build:
