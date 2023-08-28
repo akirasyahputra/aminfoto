@@ -11,7 +11,7 @@ banner:
 
 # Features
 features:
-  - title: "Layanan Photography"
+  - title: "Layanan"
     image: "/images/service-1.png"
     content: "Amin Photography adalah studio fotografi profesional di Pangkalan Berandan yang menyediakan berbagai layanan fotografi. Dengan pengalaman lebih dari 10 tahun, kami berkomitmen untuk memberikan hasil fotografi yang berkualitas tinggi dan memuaskan."
     bulletpoints:
@@ -28,26 +28,29 @@ features:
       label: "Get Started Now"
       link: "#"
 
-  - title: "Discover the Key Features Of Hugo"
+  - title: "Produk"
     image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    content: "Selain menyediakan layanan fotografi, Amin Photography juga menyediakan produk fotografi yang bisa Anda beli, yaitu:"
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Album foto"
+      - "Frame foto"
+      - "Cetak Foto"
+      - "Cetak Undangan"
+      - "Undangan Digital"
+      - "Fotocopy & Print"
+      - "Dan Lainnya"
     button:
-      enable: true
+      enable: false
       label: "Get Started Now"
       link: "https://github.com/zeon-studio/hugoplate"
 
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
+  - title: "Keunggulan Amin Photography"
     image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
+    content: "Amin Photography adalah studio fotografi profesional yang berkomitmen untuk memberikan hasil fotografi yang berkualitas tinggi dan memuaskan. Kami memiliki beberapa keunggulan yang tidak dimiliki oleh studio fotografi lainnya, yaitu:"
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Tim fotografer profesional: Tim fotografer kami memiliki keterampilan dan pengetahuan yang luas untuk menghasilkan foto-foto yang berkualitas tinggi dan artistik."
+      - "Peralatan fotografi canggih: Kami menggunakan peralatan fotografi canggih untuk memastikan hasil foto yang terbaik."
+      - "Layanan yang berfokus pada hasil: Kami selalu mendengarkan permintaan Anda dan memberikan solusi fotografi yang terbaik untuk Anda."
     button:
       enable: false
       label: ""
