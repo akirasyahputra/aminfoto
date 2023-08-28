@@ -11,16 +11,18 @@ banner:
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
+  - title: "Layanan Photography"
     image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+    content: "Amin Photography adalah studio fotografi profesional di Pangkalan Berandan yang menyediakan berbagai layanan fotografi. Dengan pengalaman lebih dari 10 tahun, kami berkomitmen untuk memberikan hasil fotografi yang berkualitas tinggi dan memuaskan."
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "Wedding & Engagement Photo"
+      - "Post Wedding Photo"
+      - "Baby & Kids Photo"
+      - "Maternity Photo"
+      - "Family Photo"
+      - "Personal Photo"
+      - "Graduation Photo"
+      - "Photo Group"
     button:
       enable: false
       label: "Get Started Now"
