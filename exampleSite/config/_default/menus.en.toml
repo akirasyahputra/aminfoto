@@ -7,13 +7,13 @@ url = "/"
 weight = 1
 
 [[main]]
-name = "Tentang"
+name = "Kontak"
 url = "about/"
 weight = 2
 
 [[main]]
 name = "Blog"
-url = "elements/"
+url = "blog/"
 weight = 3
 
 
