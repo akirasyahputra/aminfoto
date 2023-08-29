@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Reservasi Online Sekarang"
-    link: "https://github.com/zeon-studio/hugoplate"
+    link: "https://wa.me/6281264773221"
 
 # Features
 features:
@@ -52,7 +52,7 @@ features:
       - "Peralatan fotografi canggih: Kami menggunakan peralatan fotografi canggih untuk memastikan hasil foto yang terbaik."
       - "Layanan yang berfokus pada hasil: Kami selalu mendengarkan permintaan Anda dan memberikan solusi fotografi yang terbaik untuk Anda."
     button:
-      enable: false
-      label: ""
-      link: ""
+      enable: true
+      label: "Reservasi Online Sekarang"
+      link: "https://wa.me/6281264773221"
 ---
