@@ -3,7 +3,7 @@
 banner:
   title: "Amin Photography"
   content: "Amin Photography adalah studio foto terbaik di Pangkalan Berandan yang menawarkan berbagai jasa fotografi, mulai dari foto pernikahan, foto keluarga, foto wisuda, foto prewedding, foto newborn, dan masih banyak lagi."
-  image: "/images/banner.png"
+  image: "/images/AMF02506.jpg"
   button:
     enable: true
     label: "Reservasi Online Sekarang"
